@@ -1,6 +1,6 @@
-mkdir CYBERHACK
+mkdir CYBERHACK-GAME
 
-cd CYBERHACK
+cd CYBERHACK-GAME
 
 Copy your Python script here as cybersec_game.py
 
