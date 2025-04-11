@@ -5,7 +5,7 @@ import os
 import platform
 from datetime import datetime
 try:
-    from colorama import init, Fore, Back, Style
+    from colorama import init, Fore, Back, Styles
     colorama_available = True
     init()  
 except ImportError:
