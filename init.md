@@ -14,6 +14,6 @@ git commit -m "Initial commit: CYBERHACK cybersecurity training game"
 
 git branch -M main
 
-git remote add origin https://github.com/sruthikr1505/CYBERHACK.git
+git remote add origin https://github.com/Sruthikr1505/CYBERHACK.git
 
 git push -u origin main
