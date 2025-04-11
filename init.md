@@ -2,9 +2,9 @@ mkdir CYBERHACK
 
 cd CYBERHACK
 
-# Copy your Python script here as cybersec_game.py
+Copy your Python script here as cybersec_game.py
 
-# Create README.md with the content provided
+Create README.md with the content provided
 
 git init
 
