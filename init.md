@@ -1,7 +1,7 @@
 mkdir CYBERHACK
 cd CYBERHACK
-# Copy your Python script here as cybersec_game.py
-# Create README.md with the content provided
+Copy your Python script here as cybersec_game.py
+Create README.md with the content provided
 git init
 git add .
 git commit -m "Initial commit: CYBERHACK cybersecurity training game"
