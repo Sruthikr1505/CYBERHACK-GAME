@@ -49,7 +49,7 @@ CYBERHACK is an interactive command-line cybersecurity training game that simula
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sruthikr1505/CYBERHACK.git
+   git clone https://github.com/Sruthikr1505/CYBERHACK.git
    cd CYBERHACK
    ```
 
