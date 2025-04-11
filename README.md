@@ -1,4 +1,4 @@
-# CYBERHACK "Learn to Hack Before You Get Hacked"
+# CYBERHACK  >> "Learn to Hack Before You Get Hacked"
 
 CYBERHACK is an interactive command-line cybersecurity training game that simulates various security challenges in a hacker-aesthetic terminal environment. The game allows players to learn about cybersecurity concepts while completing missions related to password security, network scanning, and social engineering.
 
